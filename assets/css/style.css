@@ -653,7 +653,7 @@ section .container {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #6f18d2;
+  color: #5018d2;
   margin-bottom: 10px;
 }
 
@@ -687,7 +687,7 @@ section .container {
   left: -9px;
   top: 0;
   background:  #6f18d2;
-  border: 2px solid  #6f18d2;
+  border: 2px solid  #5018d2;
 }
 
 /*--------------------------------------------------------------
