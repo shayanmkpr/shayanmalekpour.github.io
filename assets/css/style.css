@@ -133,6 +133,7 @@ back-to-top:hover {
   bottom: 0;
   z-index: 9997;
   transition: all 0.5s;
+  padding: 10px;
   overflow-y: auto;
   background-color: #131313;
 }
